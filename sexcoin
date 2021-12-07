@@ -1,0 +1,55 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sex coin </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <nav>
+        <h1>Sexcoin</h1>
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#contact">Contact and support</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Sexcoin,</h1>
+        <h4>Best sex site.</h4>
+        
+    </header>
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            
+
+           
+        </div>
+    </section>
+
+    <footer>
+
+        <h1>info</h1>
+        <div class="services">
+            
+
+            <div class="service">
+                <h3>Payment in crypto currency</h3>
+                <p>you can buy sex coin on pancakeswap whit this contract 0xbbf7a2013737f108e9b97f822cbe10d02abaa69e .</p>
+            </div>
+
+            <div class="service">
+                <h3>in development</h3>
+                <p>we developing a site based on sex .</p>
+            </div>
+
+        </div>
+
+        <p id="contact">  | &copy; 2021, sexcoin.</p>
+    </footer>
+</body>
+</html>
